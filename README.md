@@ -1,16 +1,24 @@
 # ios_calculator
 
-A new Flutter project.
+## Description
+> IOS calculator app. The UI is not the same just similar!!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Some screenshots
 
-A few resources to get you started if this is your first Flutter project:
+  ![Screenshot 1](https://user-images.githubusercontent.com/89169847/184154632-0e154e1b-a0f9-46a5-9fa0-21ba5b6d6bc5.jpg)
+  ![Screenshot 2](https://user-images.githubusercontent.com/89169847/184154748-7a0d84cb-7b80-44af-9606-351b59cbd475.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Used items
+
+> Widgets
+> * Container
+> * Expanded
+> * Padding
+> * Column
+> * GridView
+> * GestureDetector
+
+> Third party packages
+> * [math_expressions](https://pub.dev/packages/math_expressions)
